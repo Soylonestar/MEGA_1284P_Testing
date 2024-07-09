@@ -29,6 +29,6 @@ The programming cable connections are as follows for the Atmel-ICE: <br/>
 9) Pin 9 to TDI <br />
 10) Pin 0 to GND <br />
 
-
+I CAN MAKE THE CODE SHORTER BECAUSE SOME REGISTERS INITIALIZES IN THE CORRECT BIT....
 
 
