@@ -24,7 +24,7 @@ void USART1_Init(void); //initialize USART1
 void USART1_Data(const char *str); //addresses String data by the individual character addresses
 void USART1_TX_Data(char Data); //transmits char data type to serial (Transmit Function)
 
-char TEST[] = "Testing This crap	 \n";
+char TEST[] = "Testing This crap \n";
 
 int main(void)
 {
