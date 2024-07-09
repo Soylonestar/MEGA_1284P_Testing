@@ -47,7 +47,7 @@ void USART1_Init() //initialize USART1 to see from USB; TXD1 (PD3)
 	UCSR1B = (1 << TXEN1); //enables USART TX
 	
 	/*
-	In order for USART1 to transmit it requires the following (because it talks to the USB via microcontroller):
+	In order for USART1 to transmit it requires the following (because it talks to the USB via board controller):
 		- No parity
 		- One stop bit (USBS1: Stop Bit Select; initializes at 0 for 1 stop bit)
 		- Eight data bits (character size) (UCSZ12 initializes at 0)
