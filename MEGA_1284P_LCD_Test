@@ -43,7 +43,7 @@ void USART1_Init() //initialize USART1 to see from USB; TXD1 (PD3)
 	
 	UBRR1 = UBRR_CALC; //setting Baud Rate for USART
 	
-	DDRD = (1 << DDD3); //setting USART TX pin as output
+	DDRD = (1 << DDD3); //setting USART TX pin as output; not nessary but sets the pin if I need it;
 	UCSR1B = (1 << TXEN1); //enables USART TX
 	
 	/*
