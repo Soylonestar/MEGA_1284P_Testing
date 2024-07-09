@@ -10,7 +10,7 @@ Of course all of this will be documented and explained as to what I did with upd
 Found some useful links for linking LCD with I2C to the boards...my main problem is knowing what address to set LCD (I think...) and how to write into it so that it does
 whatever I ask it to...that's the hard part...<br/>
 
-Helpful Links:
+Helpful Links: <br/>
 [Video about LCD I2C communication](https://youtu.be/QyoLxOkJcKY?si=hDH9KWU8DHB1WgvR) <br/>
 [MEGA_1284P DataSheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/ATmega164A_PA-324A_PA-644A_PA-1284_P_Data-Sheet-40002070B.pdf) <br/>
 
