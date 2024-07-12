@@ -12,6 +12,10 @@ whatever I ask it to...that's the hard part...<br/>
 
 Helpful Links: <br/>
 [Video about LCD I2C communication](https://youtu.be/QyoLxOkJcKY?si=hDH9KWU8DHB1WgvR) <br/>
+[Link to the Header Files from video](https://drive.google.com/drive/folders/15Mevi9GNHCLFoGSodTBQmBPROcbaP78b) <br/>
+[AVR364: MEGA-1284P Xplained Hardware User's Guide ](https://ww1.microchip.com/downloads/en/Appnotes/doc8377.pdf) <br/>
+[GITHUB Some Interesting 1284 Repository](https://github.com/MCUdude/MightyCore) <br/>
+[Electronic Wings RTC Interfacing, Helpful LCD stuff](https://www.electronicwings.com/avr-atmega/real-time-clock-rtc-ds1307-interfacing-with-atmega16-32) <br/>
 [MEGA_1284P DataSheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/ATmega164A_PA-324A_PA-644A_PA-1284_P_Data-Sheet-40002070B.pdf) <br/>
 
 UPDATE: <br/>
