@@ -2,7 +2,7 @@
  * main.c
  *
  * Created: 7/8/2024 4:09:06 PM
- *  Author: Administrator
+ *  Author: agarciasampedroperez
  */ 
 
 //////MEGA_1284P Board/////////
